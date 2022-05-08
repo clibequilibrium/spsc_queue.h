@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "pthread.h": "c",
+        "stdatomic.h": "c",
+        "omp.h": "c",
+        "mpmc_bounded_queue.h": "c",
+        "stdbool.h": "c",
+        "ubench.h": "c"
+    }
+}
